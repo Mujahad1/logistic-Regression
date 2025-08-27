@@ -8,7 +8,6 @@ This is a simple **Logistic Regression classifier implemented from scratch in Py
 - Gradient descent optimization
 - Custom log-likelihood calculation
 - Predict probabilities or binary labels
-- Minimal, original-style code
 
 ## Usage
 
